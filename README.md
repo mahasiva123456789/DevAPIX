@@ -2,13 +2,13 @@
 
 **API Productization and Developer Collaboration Platform**
 
----
+
 
 ## 📌 Overview
 
 DevAPIX is a full-stack developer platform designed to **publish, manage, test, and collaborate on APIs and projects**. It combines **API marketplace features (like RapidAPI)** with **developer collaboration tools (like GitHub)** into a unified system.
 
----
+
 
 # 🧩 Core Modules
 
@@ -22,7 +22,7 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 8. Contribution Tracking
 9. Project Discussion / Doubt Forum
 
----
+
 
 ## 👥 User Roles
 
@@ -45,7 +45,7 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Provides feedback
 * Participates in discussions
 
----
+
 
 # ⚙️ Complete Feature Architecture
 
@@ -60,7 +60,7 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Input validation
 * Security headers
 
----
+
 
 ## 📡 API Publishing with Documentation
 
@@ -69,7 +69,7 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * REST API *(primary support)*
 * Optional: GraphQL APIs, Webhooks, Microservice Endpoints
 
----
+
 
 ### 🔹 Basic API Details
 
@@ -80,7 +80,7 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Base URL
 * Visibility (Public / Private / Paid)
 
----
+
 
 ### 🔹 API Definition
 
@@ -103,13 +103,13 @@ Extract:
 * Logging
 * Exception Handling
 
----
+
 
 ### 🔹 Authentication Details
 
 * JWT Token-based authentication
 
----
+
 
 ### 🔹 Sample Request & Response
 
@@ -120,7 +120,7 @@ Extract:
 
 * Jackson (JSON processing)
 
----
+
 
 ### 🔹 Headers & Parameters
 
@@ -130,7 +130,7 @@ Extract:
 
 * DTO Mapping
 
----
+
 
 ### 🔹 Status Codes
 
@@ -142,7 +142,7 @@ Extract:
 * DTO
 * Exception Handling
 
----
+
 
 ### 🔹 API Discovery
 
@@ -156,7 +156,7 @@ Extract:
 * Sorting
 * Filtering
 
----
+
 
 ## 💰 Free / Paid API Access
 
@@ -171,7 +171,7 @@ Extract:
 * Pagination → subscription history
 * Logging → billing and quota exceeded logs
 
----
+
 
 ## 🧪 API Sandbox Testing Tool
 
@@ -188,7 +188,7 @@ Extract:
 * Error handling with detailed messages
 * Request history and re-execution support
 
----
+
 
 ## 📂 Project Upload
 
@@ -206,7 +206,7 @@ Extract:
 * Transaction Management
 * Soft Delete / Archive
 
----
+
 
 ## 🤝 Inviting People
 
@@ -223,7 +223,7 @@ Extract:
 * Pagination
 * Audit Logging
 
----
+
 
 ## 🛠️ Project Contribution
 
@@ -242,7 +242,7 @@ Extract:
 * Logging
 * Enum-based Status
 
----
+
 
 ## 📊 Contribution Tracking
 
@@ -262,7 +262,7 @@ Extract:
 * Pagination
 * Sorting (latest activity)
 
----
+
 
 ## 💬 Project Discussion / Doubt Forum
 
@@ -289,7 +289,7 @@ Question
 * Pagination
 * Real-time extension (WebSocket optional)
 
----
+
 
 ## 👥 Project Roles
 
@@ -303,7 +303,7 @@ Question
 * Authorization checks
 * Secure resource access
 
----
+
 
 ## 🔄 End-to-End Workflow
 
@@ -347,7 +347,7 @@ Team discusses in forum
 Project evolves collaboratively
 ```
 
----
+
 
 ## 🏗️ System Architecture
 
@@ -366,7 +366,7 @@ Core Services:
 Database (MySQL / PostgreSQL)
 ```
 
----
+
 
 ## 🧠 Backend Concepts Summary
 
