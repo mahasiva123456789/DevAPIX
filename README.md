@@ -2,13 +2,11 @@
 
 **API Productization and Developer Collaboration Platform**
 
----
 
 ## 📌 Overview
 
 DevAPIX is a full-stack developer platform designed to **publish, manage, test, and collaborate on APIs and projects**. It combines **API marketplace features (like RapidAPI)** with **developer collaboration tools (like GitHub)** into a unified system.
 
----
 
 # 🧩 Modules
 
@@ -22,7 +20,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 8. Contribution Tracking
 9. Project Discussion / Doubt Forum
 
----
 
 # ⚙️ Features
 
@@ -37,7 +34,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Input validation
 * Security headers
 
----
 
 ## 📡 API Publishing with Documentation
 
@@ -53,7 +49,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * DTO (Data Transfer Objects)
 * Validation
 
----
 
 ### 🔹 Basic API Details
 
@@ -64,7 +59,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Base URL
 * Visibility (Public / Private / Paid)
 
----
 
 ### 🔹 API Definition
 
@@ -77,13 +71,11 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Logging
 * Exception Handling
 
----
 
 ### 🔹 Authentication Details
 
 * JWT Token-based authentication
 
----
 
 ### 🔹 Sample Request & Response
 
@@ -94,7 +86,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 
 * Jackson (JSON processing)
 
----
 
 ### 🔹 Headers & Parameters
 
@@ -104,7 +95,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 
 * DTO Mapping
 
----
 
 ### 🔹 Status Codes
 
@@ -116,7 +106,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * DTO
 * Exception Handling
 
----
 
 ### 🔹 API Discovery
 
@@ -130,7 +119,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Sorting
 * Filtering
 
----
 
 ## 💰 Free / Paid API Access
 
@@ -145,7 +133,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Pagination → subscription history
 * Logging → billing and quota exceeded logs
 
----
 
 ## 🧪 API Sandbox Testing Tool
 
@@ -162,7 +149,6 @@ DevAPIX is a full-stack developer platform designed to **publish, manage, test, 
 * Error handling with detailed messages
 * Request history and re-execution support
 
----
 
 # 🏗️ Architecture (High-Level)
 
@@ -180,15 +166,5 @@ Modules:
 Database (MySQL / PostgreSQL)
 ```
 
----
 
-# 📌 Future Enhancements
-
-* GraphQL API support
-* API Gateway / Proxy Layer
-* Redis caching for rate limiting
-* AI-based API documentation assistant
-* Microservices architecture
-
----
 
